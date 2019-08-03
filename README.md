@@ -9,3 +9,6 @@ Add your Firebase Configuration to run
 npm i
 
 npm run dev
+
+
+@mention: mightyjol/sapper-firebase-template | langbamit/sapper-postcss-tailwind-rollup
