@@ -6,8 +6,6 @@ Add your Firebase Configuration to run
 
 #TODO
 
-npm i
-
 npm run dev
 
 
