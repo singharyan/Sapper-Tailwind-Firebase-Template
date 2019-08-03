@@ -4,7 +4,7 @@ A base Template based on Sapper/SvelteJS, including postcss/TailwindCSS and Fire
 
 Add your Firebase Configuration to run
 
-#TODO
+#TO RUN
 
 npm run dev
 
